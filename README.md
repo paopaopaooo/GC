@@ -1,0 +1,2 @@
+# GC
+Seminar Exercise
